@@ -4,10 +4,8 @@
 <h3> Sou um apaixonado por programação e tecnologia!</h3>
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formação em andamento Back-End pelo <a href="https://escolakoru.com.br">Escola Koru</a>.
-- 👨‍💻 Aperfeiçoando meus conhecimentos na <a href="https://www.cod3r.com.br/">Cod3r</a>.
-
-
+- 🎓 Formação em andamento Front-End.
+- 🎮 Criador de Jogos em formação no <"href=https://oifuturo.org.br/programas/nave/">
 ## 🚀 Minhas Skills
 
 <p align="left">
