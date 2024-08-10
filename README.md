@@ -38,6 +38,6 @@
   <a href="https://wa.me/qr/AL2T4QWDMPESJ1" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
 
-  <a href="https:https://www.instagram.com/joaogvianna?igsh=dHUzZHF5cXQ4MXR3" title="Instagram">
+  <a href="https://www.instagram.com/joaogvianna?igsh=dHUzZHF5cXQ4MXR3" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
 </p>
