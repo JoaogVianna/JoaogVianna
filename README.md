@@ -10,7 +10,8 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,devto" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,devto, ![image](https://github.com/user-attachments/assets/04f8faae-2a7f-40a9-951e-b1b852cf3e98)
+" />
   </a>
 </p>
 
@@ -24,7 +25,7 @@
 
 ### 📊 Estatísticas
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredchaves&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaogVianna&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
 <br>
