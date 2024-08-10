@@ -5,7 +5,7 @@
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formação em andamento Front-End.
-- 🎮 Criador de Jogos em formação no <"href=https://oifuturo.org.br/programas/nave/">
+- 🎮 Criador de Jogos em formação no https://oifuturo.org.br/programas/nave/
 ## 🚀 Minhas Skills
 
 <p align="left">
