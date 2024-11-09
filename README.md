@@ -15,13 +15,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscodet," />
-  </a>
-</p>
-
-
 
 ### 📱 Minhas redes:
 
@@ -42,3 +35,10 @@
 </div>
 
 ###
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscodet," />
+  </a>
+</p>
+
