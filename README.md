@@ -23,11 +23,6 @@
   </a>
 </p>
 
-### 📊 Estatísticas
-<a href="https://github.com/JoaogVianna" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaogVianna&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-
 <br>
 
 ### 📱 Minhas redes:
