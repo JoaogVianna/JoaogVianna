@@ -40,3 +40,12 @@
   <a href="https://www.instagram.com/joaogvianna?igsh=dHUzZHF5cXQ4MXR3" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
 </p>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaogvianna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogvianna&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=true&order=2" height="156" alt="languages graph"  />
+</div>
+
+###
