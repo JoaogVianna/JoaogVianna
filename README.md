@@ -25,17 +25,24 @@
 
 ### 🌐 Minhas Redes
 
-<p align="left">
-  <a href="https://wa.me/qr/AL2T4QWDMPESJ1" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<div align="left"">
+
+  <a href="https://wa.me/qr/21994910833" title="WhatsApp">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" alt="WhatsApp" />
   </a>
 
   <a href="https://www.instagram.com/joaogvianna" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"alt="Instagram" />
   </a>
-</p>
 
----
+  <a href="https://www.linkedin.com/in/joão-gabriel-g-s-vianna-a53163363" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+</div>
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaogvianna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="Estatísticas do GitHub"/>
