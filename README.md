@@ -1,4 +1,4 @@
-<strong>Hello 👋, João Gabriel 😊</strong>
+<strong>Hello 👋, I'm João Gabriel 😊</strong>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="400px" align="right">
 
