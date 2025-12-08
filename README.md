@@ -1,19 +1,13 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="400px" align="right">
 
-## 🖖 Olá! Meu nome é <strong>João Gabriel</strong>  
+### 🚀 About Me
 
+- 🎮 Game developer in training, **Frontend React/Next** developer  
+- 💻 Currently studying **Java**, **SQL**, and improving my **Python** skills.
 
 ---
 
-### 🚀 Sobre mim
-
- 
-- 🎮 Criador de jogos em formação, Desenvolvedor **Frontend react/next** 
-- 💻 Atualmente estudando **Java**, **SQL** e aprimorando meus conhecimentos em **Python**.
-  
----
-
-### ⚙️ Minhas Skills
+### ⚙️ My Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -23,16 +17,16 @@
 
 ---
 
-### 🌐 Minhas Redes
+### 🌐 My Socials
 
-<div align="left"">
+<div align="left">
 
   <a href="https://wa.me/qr/21994910833" title="WhatsApp">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" alt="WhatsApp" />
   </a>
 
   <a href="https://www.instagram.com/joaogvianna" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram" />
   </a>
 
   <a href="https://www.linkedin.com/in/joão-gabriel-g-s-vianna-a53163363" title="LinkedIn">
@@ -41,15 +35,12 @@
 
 </div>
 
-
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaogvianna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogvianna&layout=compact&theme=dracula&hide_border=false" height="150" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaogvianna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogvianna&layout=compact&theme=dracula&hide_border=false" height="150" alt="Most Used Languages"/>
 </div>
 
 ---
 
-### 🧠 “A melhor maneira de prever o futuro é criá-lo.”
+### 🧠 “The best way to predict the future is to create it.”
 
