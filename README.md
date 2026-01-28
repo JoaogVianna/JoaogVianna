@@ -43,22 +43,22 @@
 <table align="center">
   <tr>
     <td align="center" width="70">
-      <a href="https://wa.me/21994910833">
+      <a href="https://wa.me/+55 (21)994910833">
         <img src="https://cdn.simpleicons.org/whatsapp/7C7CFF" width="44"/>
       </a>
     </td>
     <td align="center" width="70">
-      <a href="https://instagram.com/@joaogvianna">
+      <a href="ttps://www.instagram.com/joaogvianna?igsh=dHUzZHF5cXQ4MXR3">
         <img src="https://cdn.simpleicons.org/instagram/FF4FD8" width="44"/>
       </a>
     </td>
     <td align="center" width="70">
-      <a (https://www.linkedin.com/in/jo%C3%A3o-gabriel-g-s-vianna-a53163363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)>
+      <a href ="https://www.linkedin.com/in/jo%C3%A3o-gabriel-g-s-vianna-a53163363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://skillicons.dev/icons?i=linkedin" width="44"/>
       </a>
     </td>
     <td align="center" width="70">
-      <a href="mailto:seuemail@exemplo.com">
+      <a href="mailto:jvianna.dev@hotmail.com">
         <img src="https://cdn.simpleicons.org/maildotru/7C7CFF" width="44"/>
       </a>
     </td>
