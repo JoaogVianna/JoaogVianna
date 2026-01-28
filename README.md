@@ -1,48 +1,96 @@
-<strong>Hello 👋, I'm João Gabriel 😊</strong>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C7CFF,100:4F46E5&height=170&section=header"
+    alt="header"
+  />
+</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="400px" align="right">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=1200&color=7C7CFF&center=true&vCenter=true&width=820&lines=Hello%2C+I%27m+Jo%C3%A3o+Gabriel+%F0%9F%98%8A"
+    alt="Hello I'm João Gabriel"
+  />
+</p>
 
-### 🚀 About Me
 
-- 🎮 Game developer in training, **Frontend React/Next** developer  
-- 💻 Currently studying **Java**, **SQL**, and improving my **Python** skills.
+
+
+##  👋About Me
+
+<pre>
+🎮 Game developer in training, focused on creative mechanics
+⚛️ Frontend developer with React & React Native
+☕ Studying Java and improving Python skills
+🐧 Linux user who enjoys terminals and customization
+🧠 Learning by building real projects
+</pre>
 
 ---
 
-### ⚙️ My Skills
+## ⚙️ Skills
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,vscode,godot,react" />
-  </a>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,python,godot,react,linux,javascript&perline=7"
+    alt="skills"
+  />
 </p>
 
 ---
 
-### 🌐 My Socials
+## 🧑‍💻contact me 
 
-<div align="left">
-
-  <a href="https://wa.me/qr/21994910833" title="WhatsApp">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" alt="WhatsApp" />
-  </a>
-
-  <a href="https://www.instagram.com/joaogvianna" title="Instagram">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/joão-gabriel-g-s-vianna-a53163363" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaogvianna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogvianna&layout=compact&theme=dracula&hide_border=false" height="150" alt="Most Used Languages"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="70">
+      <a href="https://wa.me/21994910833">
+        <img src="https://cdn.simpleicons.org/whatsapp/7C7CFF" width="44"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://instagram.com/@joaogvianna">
+        <img src="https://cdn.simpleicons.org/instagram/FF4FD8" width="44"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="https://linkedin.com/in/SEUPERFILAQUI">](https://www.linkedin.com/in/jo%C3%A3o-gabriel-g-s-vianna-a53163363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+        <img src="https://skillicons.dev/icons?i=linkedin" width="44"/>
+      </a>
+    </td>
+    <td align="center" width="70">
+      <a href="mailto:seuemail@exemplo.com">
+        <img src="https://cdn.simpleicons.org/maildotru/7C7CFF" width="44"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧠 “The best way to predict the future is to create it.”
+## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=joaogvianna&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogvianna&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+
+<p align="center">
+  <b>“The best way to predict the future is to create it.”</b><br/>
+  <i>— and I’m coding mine.</i> 🚀
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C7CFF,100:4F46E5&height=130&section=footer"
+    alt="footer"
+  />
+</p>
