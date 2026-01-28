@@ -43,12 +43,12 @@
 <table align="center">
   <tr>
     <td align="center" width="70">
-      <a href="https://wa.me/+55 (21)994910833">
+      <a href="https://wa.me/(21)994910833">
         <img src="https://cdn.simpleicons.org/whatsapp/7C7CFF" width="44"/>
       </a>
     </td>
     <td align="center" width="70">
-      <a href="ttps://www.instagram.com/joaogvianna?igsh=dHUzZHF5cXQ4MXR3">
+      <a href="https://www.instagram.com/joaogvianna/?next=">
         <img src="https://cdn.simpleicons.org/instagram/FF4FD8" width="44"/>
       </a>
     </td>
