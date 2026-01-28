@@ -53,7 +53,7 @@
       </a>
     </td>
     <td align="center" width="70">
-      <a href="https://linkedin.com/in/SEUPERFILAQUI">](https://www.linkedin.com/in/jo%C3%A3o-gabriel-g-s-vianna-a53163363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+      <a (https://www.linkedin.com/in/jo%C3%A3o-gabriel-g-s-vianna-a53163363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)>
         <img src="https://skillicons.dev/icons?i=linkedin" width="44"/>
       </a>
     </td>
