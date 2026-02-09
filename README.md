@@ -31,7 +31,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,python,godot,react,linux,javascript&perline=7"
+    src="https://skillicons.dev/icons?i=java,python,react,linux,css,html,javascript&perline=7"
     alt="skills"
   />
 </p>
